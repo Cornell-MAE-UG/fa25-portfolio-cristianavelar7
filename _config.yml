@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Cristian Avelar-Romero
 description              : Cristian Avelar-Romero - Projects and CV 
-baseurl                  : fa25-portfolio-cristianavelar7 # Set this to your repo name 
+baseurl                  : /fa25-portfolio-cristianavelar7 # Set this to your repo name 
 
 # Theme and Style
 theme: jekyll-theme-minimal
@@ -42,8 +42,4 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-seo-tag
-
-collections:
-  projects:
-    output: true
 
