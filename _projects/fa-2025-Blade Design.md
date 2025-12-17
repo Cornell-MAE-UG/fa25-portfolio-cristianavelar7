@@ -3,7 +3,8 @@ layout: project
 title: Small Wind Turbine Blade Design
 description: Aerodynamic Design, Structural Analysis, and Experimental Testing
 technologies: [MATLAB, Autodesk Fusion 360, Wind Tunnel Testing]
-image: /assets/images/wind-turbine-blade.jpeg
+image: /assets/images/wind-turbine-blade.jpg
+
 ---
 
 
