@@ -108,28 +108,25 @@ footer {
   vertical-align: top;
 }
 
-.inline-image {
-  max-width: 350px;
-  margin: 0px 25px 15px 25px;
-  vertical-align: top;
-
-  &-l {
-    @extend .inline-image;
-    float: left;
-    margin-left: 0;
-  }
-
-  &-r {
-    @extend .inline-image;
-    float: right;
-    margin-right: 0;
-  }
+.inline-image,
+.inline-image-l,
+.inline-image-r {
+  display: block;
+  float: none;
+  max-width: 100%;
+  margin: 1.75rem auto;
 }
 
-.profile-image, .project-image {
+
+.project-image {
+  display: block;
+  float: none;
+  margin: 1.5rem auto 2rem auto;
+  max-width: 100%;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
+
 
 
 .gallery-container {
@@ -200,4 +197,13 @@ footer {
   transform: translateX(-4px);
 }
 
+/* ===== Figure Styling ===== */
+
+img + strong {
+  display: block;
+  text-align: center;
+  font-size: 0.95rem;
+  color: #444;
+  margin-bottom: 2.5rem;
+}
 

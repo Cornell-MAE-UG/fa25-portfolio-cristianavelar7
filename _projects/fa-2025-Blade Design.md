@@ -41,45 +41,27 @@ I focused on the development and refinement of the MATLAB blade element and stru
 
 ## Figures
 
-<div class="figure-block">
-
 ![Root Bending Stress vs. Wind Speed]({{ "/assets/images/Figure1.blade.design.png" | relative_url }})
 
-<p class="figure-caption">
-<strong>Figure 1.</strong> Root bending stress versus wind speed comparing baseline and optimized blade designs.
-</p>
+**Figure 1.** Root bending stress versus wind speed comparing baseline and optimized blade designs.
 
-</div>
-
-<div class="figure-block">
+---
 
 ![Chord and Twist Distributions]({{ "/assets/images/Figure2.blade.design.png" | relative_url }})
 
-<p class="figure-caption">
-<strong>Figure 2.</strong> Tuned chord and twist distributions along the blade radius.
-</p>
+**Figure 2.** Tuned chord and twist distributions along the blade radius.
 
-</div>
-
-<div class="figure-block">
+---
 
 ![Final CAD Model]({{ "/assets/images/Figure3.blade.design.png" | relative_url }})
 
-<p class="figure-caption">
-<strong>Figure 3.</strong> Final manufacturable blade geometry generated in Autodesk Fusion 360.
-</p>
+**Figure 3.** Final manufacturable blade geometry generated in Autodesk Fusion 360.
 
-</div>
-
-<div class="figure-block">
+---
 
 ![Experimental Power Curves]({{ "/assets/images/Figure4.blade.design.png" | relative_url }})
 
-<p class="figure-caption">
-<strong>Figure 4.</strong> Experimental power output across 8–11 Hz operating conditions.
-</p>
-
-</div>
+**Figure 4.** Experimental power output across 8–11 Hz operating conditions.
 
 
 ---
