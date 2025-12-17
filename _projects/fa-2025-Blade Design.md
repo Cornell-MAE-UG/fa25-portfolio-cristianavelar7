@@ -41,39 +41,43 @@ I focused on the development and refinement of the MATLAB blade element and stru
 
 ## Figures
 
-<div class="clearfix">
+<div class="figure-block">
 
-![Root Bending Stress vs. Wind Speed]({{ "/assets/images/Figure1.blade.design.png" | relative_url }}){: .inline-image-l}
+![Root Bending Stress vs. Wind Speed]({{ "/assets/images/Figure1.blade.design.png" | relative_url }})
 
-**Root Bending Stress vs. Wind Speed:**  
-Comparison of baseline and optimized blade designs
-
-</div>
-
-<div class="clearfix">
-
-![Chord and Twist Distributions]({{ "/assets/images/Figure2.blade.design.png" | relative_url }}){: .inline-image-l}
-
-**Chord and Twist Distributions:**  
-Tuned geometry along blade radius
+<p class="figure-caption">
+<strong>Figure 1.</strong> Root bending stress versus wind speed comparing baseline and optimized blade designs.
+</p>
 
 </div>
 
-<div class="clearfix">
+<div class="figure-block">
 
-![Final Blade CAD Model]({{ "/assets/images/Figure3.blade.design.png" | relative_url }}){: .inline-image-r}
+![Chord and Twist Distributions]({{ "/assets/images/Figure2.blade.design.png" | relative_url }})
 
-**Final CAD Model:**  
-Manufacturable blade geometry
+<p class="figure-caption">
+<strong>Figure 2.</strong> Tuned chord and twist distributions along the blade radius.
+</p>
 
 </div>
 
-<div class="clearfix">
+<div class="figure-block">
 
-![Experimental Power Curves]({{ "/assets/images/Figure4.blade.design.png" | relative_url }}){: .inline-image-l}
+![Final CAD Model]({{ "/assets/images/Figure3.blade.design.png" | relative_url }})
 
-**Experimental Power Curves:**  
-Power output across 8–11 Hz operating conditions
+<p class="figure-caption">
+<strong>Figure 3.</strong> Final manufacturable blade geometry generated in Autodesk Fusion 360.
+</p>
+
+</div>
+
+<div class="figure-block">
+
+![Experimental Power Curves]({{ "/assets/images/Figure4.blade.design.png" | relative_url }})
+
+<p class="figure-caption">
+<strong>Figure 4.</strong> Experimental power output across 8–11 Hz operating conditions.
+</p>
 
 </div>
 
