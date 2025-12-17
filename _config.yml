@@ -43,3 +43,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
 
+collections:
+  projects:
+    output: true
+
