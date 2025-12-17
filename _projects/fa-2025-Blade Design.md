@@ -3,8 +3,9 @@ layout: project
 title: Small Wind Turbine Blade Design
 description: Aerodynamic Design, Structural Analysis, and Experimental Testing
 technologies: [MATLAB, Autodesk Fusion 360, Wind Tunnel Testing]
-image: /assets/images/wind-turbine-blade-cad.jpg
+image: /assets/images/wind-turbine-blade-cad.jpeg
 ---
+
 
 As part of MAE 4272: Fluids and Heat Transfer Laboratory at Cornell University, our team designed, fabricated, and experimentally tested a small-scale wind turbine blade. The objective was to maximize power output under fixed wind-tunnel operating conditions while ensuring structural safety under overspeed (free-spin) scenarios. This project mirrors real-world engineering challenges where aerodynamic performance must be balanced against material limits and system constraints.
 
