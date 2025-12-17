@@ -3,7 +3,7 @@ layout: project
 title: Small Wind Turbine Blade Design
 description: Aerodynamic Design, Structural Analysis, and Experimental Testing
 technologies: [MATLAB, Autodesk Fusion 360, Wind Tunnel Testing]
-image: /assets/images/wind-turbine-blade.jpeg
+image: ({{ "/assets/images/wind-turbine-blade.jpeg" | relative_url }}){: .inline-image-l}
 ---
 
 
@@ -42,17 +42,18 @@ I focused on the development and refinement of the MATLAB blade element and stru
 ## Figures
 
 ![Root Bending Stress vs. Wind Speed:]({{ "/assets/images/Figure1.blade.design.png" | relative_url }}){: .inline-image-l}
-- **Root Bending Stress vs. Wind Speed:** Comparison of baseline and optimized blade designs  
+**Root Bending Stress vs. Wind Speed:** Comparison of baseline and optimized blade designs  
 
 ![Chord and Twist Distributions]({{ "/assets/images/Figure2.blade.design.png" | relative_url }}){: .inline-image-l}
-- **Chord and Twist Distributions:** Tuned geometry along blade radius  
+**Chord and Twist Distributions:** Tuned geometry along blade radius  
 
 ![Final Blade CAD Model]({{ "/assets/images/Figure3.blade.design.png"| relative_url }}){: .inline-image-r style="width: 220px"}
-- **Final CAD Model:** Manufacturable blade geometry  
+**Final CAD Model:** Manufacturable blade geometry  
 
 ![Experimental Power Curves]({{ "/assets/images/Figure4.blade.design.png" | relative_url }}){: .inline-image-l}
-- **Experimental Power Curves:** Power output across 
+**Experimental Power Curves:** Power output across 
 8–11 Hz operating conditions  
+
 
 
 
