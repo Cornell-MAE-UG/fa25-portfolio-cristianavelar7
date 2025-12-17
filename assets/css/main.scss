@@ -8,3 +8,34 @@ $color_scheme: '{{ site.color_scheme }}';
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Merriweather:wght@400;700&display=swap');
 @import "custom";
 
+/* ===== Project Image Layout ===== */
+
+.project-image {
+  display: block;
+  max-width: 100%;
+  margin: 1.5rem auto;
+  border-radius: 6px;
+}
+
+.inline-image-l {
+  float: left;
+  max-width: 55%;
+  margin: 0 1.5rem 1rem 0;
+}
+
+.inline-image-r {
+  float: right;
+  max-width: 40%;
+  margin: 0 0 1rem 1.5rem;
+}
+
+.inline-image-l,
+.inline-image-r {
+  display: block;
+}
+
+.clearfix::after {
+  content: "";
+  display: block;
+  clear: both;
+}
