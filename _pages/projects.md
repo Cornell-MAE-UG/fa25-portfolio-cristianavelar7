@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: Cristian Avelar_Romero - Portfolio
 permalink: /projects/
 ---
 
