@@ -3,7 +3,7 @@ layout: default
 title: Cristian Avelar-Romero - Portfolio
 permalink: /projects/
 ---
-
+<p>Projects loaded: {{ site.projects | size }}</p>
 <div class="gallery-container">
 <div class="project-gallery">
     {% for project in site.projects %}
