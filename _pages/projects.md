@@ -1,14 +1,18 @@
 ---
 layout: default
-title: Projects
+title: Cristian Avelar-Romero - Portfolio
 permalink: /projects/
 ---
 
-## Projects
-
-{% for project in site.projects %}
-### [{{ project.title }}]({{ project.url | relative_url }})
-
-{{ project.description }}
-
-{% endfor %}
+<div class="gallery-container">
+<div class="project-gallery">
+    {% for project in site.projects %}
+      <div class="gallery-item">
+        <a href="{{ project.url | relative_url }}">
+          <img src="{{ project.image | relative_url }}" alt="{{ project.title }}" />
+          <p>{{ project.title}}</p>
+        </a>
+      </div>
+    {% endfor %}
+</div>
+</div>
