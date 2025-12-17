@@ -7,22 +7,3 @@ $color_scheme: '{{ site.color_scheme }}';
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Merriweather:wght@400;700&display=swap');
 @import "custom";
-
-.figure-block {
-  margin: 2.5rem 0;
-  text-align: center;
-}
-
-.figure-block img {
-  max-width: 100%;
-  height: auto;
-  margin: 0 auto 0.75rem;
-}
-
-.figure-caption {
-  font-size: 0.95rem;
-  color: #444;
-  max-width: 800px;
-  margin: 0 auto;
-  line-height: 1.4;
-}
