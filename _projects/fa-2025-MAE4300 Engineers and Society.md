@@ -1,10 +1,13 @@
 ---
 layout: project
-title: Ethical Decision-Making in Engineering: Lessons from the Boeing 737 MAX Case
+title: Ethical Decision-Making in Engineering Lessons from the Boeing 737 MAX Case
 description: Engineering ethics case study analyzing system-level failures, responsibility, and accountability
 technologies: [Engineering Ethics, Systems Thinking, Risk Analysis]
 image: /assets/images/boeing-737-max.jpg
+
+
 ---
+
 
 Engineering decisions rarely occur in isolation. Instead, they are shaped by the interaction of multiple knowledge domains—including technical, organizational, regulatory, and human factors—that collectively influence how engineers make decisions. Using an ethical analysis framework to examine the Boeing 737 MAX and its Maneuvering Characteristics Augmentation System (MCAS), this case study explores how failures across multiple layers led to catastrophic outcomes. The analysis demonstrates the critical role that transparency, responsibility, and accountability play in the engineering profession.
 
